@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Discordinated';
+    src: url('https://cdn.jsdelivr.net/gh/Lund1337/discord-font@main/DISCORDINATED.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Lund1337/discord-font@main/DISCORDINATED.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
